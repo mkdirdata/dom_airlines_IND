@@ -1,6 +1,6 @@
 # dom_airlines_IND (WIP)
 
-##NOTE
+## NOTE
 <br>All images/charts/graphs are not rendering in the github.
 <br>Please visit https://nbviewer.org/github/mkdirdata/dom_airlines_IND/blob/main/src/proj1.ipynb
 
